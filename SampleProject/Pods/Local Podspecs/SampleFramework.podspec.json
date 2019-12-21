@@ -1,0 +1,22 @@
+{
+  "name": "SampleFramework",
+  "version": "1.0.0",
+  "summary": "This is summary about my sample framework",
+  "description": "The sample framework is created to test pod creation",
+  "homepage": "https://github.com/VinodKumarKottamasu/Sample",
+  "license": "MIT",
+  "authors": {
+    "Vinod": "kvkumarece@gmail.com"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source": {
+    "git": "https://github.com/VinodKumarKottamasu/Sample.git",
+    "tag": "1.0.0"
+  },
+  "source_files": [
+    "SampleFramework",
+    "SampleFramework/**/*.{h,m}"
+  ]
+}
